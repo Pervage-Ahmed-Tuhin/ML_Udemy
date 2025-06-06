@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Data Preprocessing Toolkit
+# 🧠 Machine Learning Toolkit
 
 ![GitHub](https://img.shields.io/badge/GitHub-Tools_For_ML-blue?style=for-the-badge&logo=github)
 ![Python](https://img.shields.io/badge/Python-3.7+-yellow?style=for-the-badge&logo=python)
