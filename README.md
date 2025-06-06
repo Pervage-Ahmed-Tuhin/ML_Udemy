@@ -95,10 +95,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📬 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Pervaj AHmed Tuhin - [@Linkdin](https://www.linkedin.com/in/pervaj-ahmed-tuhin) - pervageahmedtuhin123456@gmail.com
 
-Project Link: [https://github.com/YOUR-USERNAME/ToolsForMachineLearning](https://github.com/YOUR-USERNAME/ToolsForMachineLearning)
+Project Link: [https://github.com/Pervage-Ahmed-Tuhin/ML_Udemy](https://github.com/Pervage-Ahmed-Tuhin)
 
 ---
 
-⭐️ From [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+⭐️ From [Pervaj Ahmed Tuhin](https://github.com/Pervage-Ahmed-Tuhin)
